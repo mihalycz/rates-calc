@@ -1,0 +1,11 @@
+{
+  "name": "currency-rates",
+  "version": "0.0.1",
+  "description": "currency rates application",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.2",
+    "angular-mocks": "1.4.2"
+  }
+}
